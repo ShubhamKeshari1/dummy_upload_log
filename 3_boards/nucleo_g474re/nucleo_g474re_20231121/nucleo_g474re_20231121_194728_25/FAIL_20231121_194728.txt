@@ -1,0 +1,1 @@
+Invalid project selection REMOT. Please the project mode selection in build_script_confiq file and procceed. Process is terminated.
