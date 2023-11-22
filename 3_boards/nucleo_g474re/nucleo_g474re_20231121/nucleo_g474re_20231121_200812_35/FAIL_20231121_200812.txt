@@ -1,6 +1,0 @@
-........
-Correct selection of project mode.
-Project mode selected is REMOTE
-........
-Cloning dummy_build_script_project repository from git@github.com:ShubhamKeshari1/dummy_build_script_project.gi to /home/shubham/build_script_zephyr.
-Cannot clone dummy_build_script_project repository from git@github.com:ShubhamKeshari1/dummy_build_script_project.gi to /home/shubham/build_script_zephyr. Process is terminated.
